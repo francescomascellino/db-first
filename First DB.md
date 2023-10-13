@@ -5,7 +5,7 @@ Boolean Class 104 exercise: First DB Template
 
 id: PRIMARY_KEY, INT, UNIQUE, AUTO_INCREMENT, NOTNULL
 
-Company: VARCHAR(10), NOTNULL <!-- es: Mercedes-Benz -->
+Company: VARCHAR(10), NOTNULL[]: # es: Mercedes-Benz
 
 Model: VARCHAR(50), NOTNULL <!-- es: Coupè AMG Line GTronic -->
 
