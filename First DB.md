@@ -19,13 +19,12 @@ Km: FLOAT(5, 3), NULL
 
 Year: YEAR, NULL
 
-Status: VARCHAR(19), NULL
+Status: VARCHAR(20), NULL
 
-Color: VARCHAR(19), NULL
+Color: VARCHAR(10), NULL
 
 Description: TEXT, NULL
 
 Price: DECIMAL(5, 3), NULL
 
 Notes: VARCHAR(255) NULL
-
